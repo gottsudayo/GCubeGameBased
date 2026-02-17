@@ -6,7 +6,8 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
-    <ApplicationIcon>icon.ico</ApplicationIcon>
+	<ApplicationIcon>icon.ico</ApplicationIcon>
+	<PublishSingleFile>true</PublishSingleFile>
   </PropertyGroup>
 
   <ItemGroup>
