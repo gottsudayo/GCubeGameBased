@@ -14,7 +14,7 @@ However, if you can't install it, you can run this project with build-in edition
 
 ## 1. Download the game
 First, you need to download the game from [Releases](https://github.com/gottsudayo/GCubeGame/releases).
-In step 0, if you could install .NET 8.0 Runtime, you can download **GCubeGame-UseRuntime8.0.zip**.
+In step 0, if you could install .NET 8.0 Runtime, you can download **GCubeGame-UseRuntime8.zip**.
 If you couldn't, you can download **GCubeGame-UnuseRuntime.zip**.
 But don't download it in administrator directory.
 If you did it, you can't run the game.
