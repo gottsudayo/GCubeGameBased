@@ -421,7 +421,7 @@
             ForeColor = Color.White;
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "MainForm";
-            Text = "GCubeGame v1.0.3";
+            Text = "GCubeGame v1.0.0";
             Shown += MainForm_Shown;
             GameField.ResumeLayout(false);
             ScoreBackPanel.ResumeLayout(false);
